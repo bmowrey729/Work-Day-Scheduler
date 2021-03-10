@@ -98,5 +98,4 @@ if (hour < sixteenPm) {
     $("#hour-17").addClass("past");
   } 
 
-console.log(tenAm)
 
